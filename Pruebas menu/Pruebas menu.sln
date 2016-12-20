@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3331AAC0-F017-41E5-AEF9-A7F607BB00CD}") = "Pruebas menu", "Assembly-CSharp.csproj", "{325EE809-E3A1-AE28-50A6-60F20B6E4736}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325EE809-E3A1-AE28-50A6-60F20B6E4736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325EE809-E3A1-AE28-50A6-60F20B6E4736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325EE809-E3A1-AE28-50A6-60F20B6E4736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325EE809-E3A1-AE28-50A6-60F20B6E4736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
